@@ -1,0 +1,56 @@
+{
+ "Name":"Montecristo No 2",
+ "Factory":"Torpedo",
+ "Ring Guage":52,
+ "Length":15.60,
+ "Strength":3
+ "Taste":"Spicy"
+},
+{
+ "Name":"1966 Edicion Limitada 2011",
+ "Factory":"Canonazo",
+ "Ring Guage":52,
+ "Length":16.60,
+ "Strength":3
+ "Taste":"Spicy"
+},
+{
+ "Name":"Cohiba Exiquisitos",
+ "Factory":"Petit Palma",
+ "Ring Guage":36,
+ "Length":12.50,
+ "Strength":2
+ "Taste":"Spicy"
+},
+{
+ "Name":"Cohiba Robustos",
+ "Factory":"Robustos",
+ "Ring Guage":50,
+ "Length":12.40,
+ "Strength":1
+ "Taste":"Spicy"
+},
+{
+ "Name":"Bolivar Petit Corona",
+ "Factory":"Petit Corona",
+ "Ring Guage":42,
+ "Length":12.90,
+ "Strength":6
+ "Taste":"Earthy"
+},
+{
+ "Name":"Bolivar Super Corona Edicion Limitada 2014",
+ "Factory":"Coronas Granades",
+ "Ring Guage":48,
+ "Length":14.00,
+ "Strength":4
+ "Taste":"Woody"
+},
+{
+ "Name":"Flor De Cano Petit Coronas",
+ "Factory":"Standard",
+ "Ring Guage":40,
+ "Length":12.30,
+ "Strength":5
+ "Taste":"Vegetal"
+},
