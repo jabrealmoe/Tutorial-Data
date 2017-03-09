@@ -3,7 +3,7 @@
  "Factory":"Torpedo",
  "Ring Guage":52,
  "Length":15.60,
- "Strength":3
+ "Strength":3,
  "Taste":"Spicy"
 },
 {
@@ -11,7 +11,7 @@
  "Factory":"Canonazo",
  "Ring Guage":52,
  "Length":16.60,
- "Strength":3
+ "Strength":3,
  "Taste":"Spicy"
 },
 {
@@ -19,7 +19,7 @@
  "Factory":"Petit Palma",
  "Ring Guage":36,
  "Length":12.50,
- "Strength":2
+ "Strength":2,
  "Taste":"Spicy"
 },
 {
@@ -27,7 +27,7 @@
  "Factory":"Robustos",
  "Ring Guage":50,
  "Length":12.40,
- "Strength":1
+ "Strength":1,
  "Taste":"Spicy"
 },
 {
@@ -35,7 +35,7 @@
  "Factory":"Petit Corona",
  "Ring Guage":42,
  "Length":12.90,
- "Strength":6
+ "Strength":6,
  "Taste":"Earthy"
 },
 {
@@ -43,7 +43,7 @@
  "Factory":"Coronas Granades",
  "Ring Guage":48,
  "Length":14.00,
- "Strength":4
+ "Strength":4,
  "Taste":"Woody"
 },
 {
@@ -51,6 +51,6 @@
  "Factory":"Standard",
  "Ring Guage":40,
  "Length":12.30,
- "Strength":5
+ "Strength":5,
  "Taste":"Vegetal"
 },
