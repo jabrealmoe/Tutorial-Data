@@ -4,6 +4,7 @@
  "Ring Guage":52,
  "Length":15.60,
  "Strength":3,
+ "ImageURL":"http://www.topcubans.com/photos/cigars/BIG/NORMAL/MONTE_No2.jpg",
  "Taste":"Spicy"
 },
 {
@@ -12,6 +13,7 @@
  "Ring Guage":52,
  "Length":16.60,
  "Strength":3,
+ "ImageURL":"http://www.topcubans.com/photos/cigars/BIG/NB/COHIBA_1966_NB.jpg",
  "Taste":"Spicy"
 },
 {
@@ -20,6 +22,7 @@
  "Ring Guage":36,
  "Length":12.50,
  "Strength":2,
+ "ImageURL":"http://www.topcubans.com/photos/cigars/BIG/NORMAL/COHIBA_Exquisitos.jpg",
  "Taste":"Spicy"
 },
 {
@@ -28,6 +31,7 @@
  "Ring Guage":50,
  "Length":12.40,
  "Strength":1,
+ "ImageURL":"http://www.topcubans.com/photos/cigars/BIG/NORMAL/MONTE_No4.jpg",
  "Taste":"Spicy"
 },
 {
@@ -36,6 +40,7 @@
  "Ring Guage":42,
  "Length":12.90,
  "Strength":6,
+ "ImageURL":"http://www.topcubans.com/photos/cigars/BIG/NORMAL/BOLI_RoyalCoronas.jpg",
  "Taste":"Earthy"
 },
 {
@@ -44,6 +49,7 @@
  "Ring Guage":48,
  "Length":14.00,
  "Strength":4,
+ "ImageURL":"http://www.topcubans.com/photos/cigars/BIG/NORMAL/BOLI_RoyalCoronas.jpg",
  "Taste":"Woody"
 },
 {
@@ -52,5 +58,6 @@
  "Ring Guage":40,
  "Length":12.30,
  "Strength":5,
+ "ImageURL":"http://www.topcubans.com/photos/cigars/BIG/NORMAL/BOLI_RoyalCoronas.jpg",
  "Taste":"Vegetal"
 },
